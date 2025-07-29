@@ -1,2 +1,2 @@
 # Projects
-A collection of my projects, showcasing my learning and skills.
+Here, I will be uploading all the projects I work on and showcasing my learning and skills.
